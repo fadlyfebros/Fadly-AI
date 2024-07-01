@@ -124,7 +124,7 @@ const Main = () => {
           </div>
           <div className="bottom-info">
             <p>
-            Fadly AI may display inaccurate info, including about people, so double check the response. Your Privacy & Gemini Apps
+            Fadly AI dapat membuat kesalahan. Periksa info penting.
             </p>
           </div>
         </div>
